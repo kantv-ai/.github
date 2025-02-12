@@ -7,7 +7,7 @@ we'd like to provide ggml-qnn's open source implementation and build public good
 # Roadmap
 
  - we currrently focus on <a href="https://github.com/zhouwg/kantv/blob/master/README-qnn.md">ggml-qnn</a>'s implementation which <a href="https://github.com/zhouwg/kantv/issues/121">launched on 03/29/2024</a> and <a href="https://github.com/zhouwg/kantv/issues/246">re-launched on 02/2025</a> on Android smartphone equipped with Qualcomm Snapdragon processors.
- - we'll take some efforts on <a href="https://github.com/pytorch/executorch">Meta's executorch</a> after finish the PR in upstream llama.cpp community.
+ - we'll take some efforts on <a href="https://github.com/pytorch/executorch">Meta's executorch</a> to help programmers and AI researchers deploy pytorch on Android smartphone more easily.
 
 
 # Acknowledgement
