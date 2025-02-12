@@ -1,6 +1,6 @@
 # kantv-ai
 
-kantv-ai is an nonprofit technical team which focus on learning&practising device-AI tech(powered by llama.cpp + FFmpeg) on Android smartphone.
+kantv-ai is an nonprofit software technical team which focus on learning&practising device-AI tech(powered by llama.cpp + FFmpeg) on Android smartphone.
 
 we currrently focus on <a href="https://github.com/zhouwg/kantv/blob/master/README-qnn.md">ggml-qnn</a>'s implementation which <a href="https://github.com/zhouwg/kantv/issues/121">launched on 03/29/2024</a> on Android smartphone equipped with Qualcomm Snapdragon processors.
 
