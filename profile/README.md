@@ -4,3 +4,14 @@ we currrently focus on <a href="https://github.com/kantv-ai/llama.cpp/blob/kantv
   
 we heavily depend on the great <a href="https://github.com/ggerganov/llama.cpp/">llama.cpp</a> & FFmpeg and thanks for their exceptional contributions sincerely.
 
+
+**Updated news on 02-24-2024,22:43**
+
+we just know that:Qualcomm engineers have been participating in llama.cpp development for some time now ;-) 
+
+https://github.com/ggerganov/llama.cpp/discussions/8273#discussioncomment-11418311
+
+https://github.com/ggerganov/llama.cpp/pull/10693
+
+this is an amazing news for llama.cpp community.
+
