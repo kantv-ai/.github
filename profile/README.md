@@ -13,5 +13,5 @@ https://github.com/ggerganov/llama.cpp/discussions/8273#discussioncomment-114183
 
 https://github.com/ggerganov/llama.cpp/pull/10693
 
-this is an amazing news for llama.cpp community.
+this is an amazing news for upstream llama.cpp community, hope the official PR of ggml-qnn from Qualcomm can been seen in the upstream llama.cpp community.
 
