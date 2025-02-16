@@ -4,7 +4,7 @@ we currrently focus on <a href="https://github.com/kantv-ai/llama.cpp/blob/kantv
 
 team member:
 
-- one is from XiDian University
+- one is from XiDian University whom is very busy
 
 - one is a former system software programmer @UniSoC & @Xiaomi
 
