@@ -8,7 +8,7 @@ team member:
 
 - one is a former system software programmer of Android @[UniSoC](https://www.unisoc.com/en_us/) & @Xiaomi whom have very limited knowledge about hardcore AI tech
 
-- one is from China's top IT factory whom is very busy
+- one is from China's top IT company(we call them as IT factory in China) whom is very busy
 
 any programmers/developers/experts/device-ai tech guys interested in this open source project can [leave comments here](https://github.com/zhouwg/ggmlqnn-in-kantvai/issues/2) then we'll send invitation to you.
   
