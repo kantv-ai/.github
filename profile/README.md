@@ -6,7 +6,7 @@ team member:
 
 - one is from XiDian University whom is very busy
 
-- one is a former system software programmer of Android @[UniSoC](https://www.unisoc.com/en_us/) & @Xiaomi
+- one is a former system software programmer of Android @[UniSoC](https://www.unisoc.com/en_us/) & @Xiaomi whom have very limited knowledge about hardcore AI tech
 
 - one is from China's top IT factory whom is very busy
 
