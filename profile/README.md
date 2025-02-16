@@ -9,5 +9,7 @@ team member:
 - one is a former system software programmer @UniSoC & @Xiaomi
 
 - one is from China's top IT factory
+
+any Chinese programmers interested in this open source project can leave comments on this project.
   
 we heavily depend on the great <a href="https://github.com/ggerganov/llama.cpp/">llama.cpp</a> & FFmpeg and thanks for their exceptional contributions sincerely.
