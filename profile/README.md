@@ -10,6 +10,6 @@ team member:
 
 - one is from China's top IT company(generally speaking, we call them as IT factory in China) whom is very busy
 
-any programmers/developers/experts/device-ai tech guys interested in this open source project can [leave comments here](https://github.com/kantv-ai/ggmlqnn-in-kantvai/issues/2) then we'll send invitation to you.
+any programmers/developers/experts/device-ai tech guys interested in this open source project can [leave comments here](https://github.com/kantv-ai/ggmlqnn-discuss/issues/2) then we'll send invitation to you.
   
 we heavily depend on the great <a href="https://github.com/ggerganov/llama.cpp/">llama.cpp</a> & FFmpeg and thanks for their exceptional contributions sincerely.
