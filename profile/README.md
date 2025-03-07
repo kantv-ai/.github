@@ -2,4 +2,4 @@ this is a personal learning project and hope to make some contributions to open-
 
 project kantv: https://github.com/kantv-ai/kantv （AI subtitle for English online-TV, on-device LLM inference, powered by whisper.cpp + FFmpeg)
 
-project ggml-qnn: [https://github.com/kantv-ai/ggml-qnn/discussions/2](https://github.com/kantv-ai/ggml-qnn/discussions/2) (implementation of ggml-qnn in llama.cpp)
+project ggml-qnn: [https://github.com/kantv-ai/ggml-qnn](https://github.com/kantv-ai/ggml-qnn/) (implementation of ggml-qnn in llama.cpp)
