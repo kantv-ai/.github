@@ -1,4 +1,4 @@
-pls refer to:
+this is personal learning project, pls refer to:
 
 project kantv: https://github.com/kantv-ai/kantv （AI subtitle for English online-TV, on-device LLM inference, powered by whisper.cpp + FFmpeg)
 
