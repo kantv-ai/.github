@@ -1,1 +1,1 @@
-project kantv: https://github.com/kantv-ai/kantv （AI subtitle for English online-TV, on-device LLM inference, powered by whisper.cpp + FFmpeg)
+closed since 04/02/2025, all projects has moved to original author:https://github.com/zhouwg
