@@ -1,7 +1,5 @@
 KanTV-AI <b>cares</b> Kan(aka English "Watch") TV on Android phone(can be seen as a standard embedded development board equipped with a special Linux distribution) or Android-based device(Smart TV, Smart STB,......).
 
-KanTV-AI <b>cares</b> video, streaming-media, TEE, device-AI on Android phone.
-
 KanTV-AI focus on learning/studying/practising device-AI solution in <b>real application</b> & <b>real scenario</b> on <b>ANY</b> mainstream <b>Android phone</b> equipped with <b>high-end</b> mobile SoC(such as Snapdragon 8Gen3, Snapdragon 8Elite or customized 8Gen3/8Elite......).
 
 The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggml-org/llama.cpp) + [whisper.cpp](https://github.com/ggml-org/whisper.cpp) + [FFmpeg](https://www.ffmpeg.org/). the core AI engine is driven by llama.cpp + whisper.cpp + stable-diffusion.cpp, we'd like to [make contributions to upstream](https://github.com/ggml-org/llama.cpp/pull/12326) project llama.cpp.
