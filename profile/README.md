@@ -6,7 +6,7 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
 
 ### Software arch
 
-![Image](https://github.com/user-attachments/assets/86d4652f-5272-4fff-a245-e123d4b8c54a)
+![Image](https://github.com/user-attachments/assets/a01efc55-b9be-4e4b-b5b9-7a4c8723278b)
 
 ### News
 - `[2025 May 02]` [release v1.6.8](https://github.com/kantv-ai/kantv/releases/tag/kantv-1.6.8)
