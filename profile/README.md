@@ -2,7 +2,7 @@ KanTV-AI <b>cares</b> Kan(aka English "Watch") TV on Android phone(can be seen a
 
 KanTV-AI focus on learning/studying/practising device-AI solution in <b>real application</b> & <b>real scenario</b> on <b>ANY</b> mainstream <b>Android phone</b> equipped with <b>high-end</b> mobile SoC(such as Snapdragon 8Gen3, Snapdragon 8Elite or customized 8Gen3/8Elite......).
 
-The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggml-org/llama.cpp) + [whisper.cpp](https://github.com/ggml-org/whisper.cpp) +  [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) + [FFmpeg](https://www.ffmpeg.org/) + [opencv-mobile](https://github.com/nihui/opencv-mobile). the core AI engine is driven by [ggml](https://github.com/ggml-org/ggml), we'd like to [make contributions to upstream](https://github.com/ggml-org/llama.cpp/pull/12326) project llama.cpp.
+The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggml-org/llama.cpp) + [whisper.cpp](https://github.com/ggml-org/whisper.cpp) +  [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) + [FFmpeg](https://www.ffmpeg.org/) + [opencv-mobile](https://github.com/nihui/opencv-mobile). the core AI engine is driven by [ggml](https://github.com/ggml-org/ggml), we'd like to [make contributions](https://github.com/ggml-org/llama.cpp/pull/12326) to upstream project llama.cpp.
 
 ### Software arch
 
