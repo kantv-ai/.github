@@ -3,8 +3,7 @@ KanTV-AI focus on <b>learning/studying/practising</b> device-AI solution in <b>r
 The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggml-org/llama.cpp) + [whisper.cpp](https://github.com/ggml-org/whisper.cpp) +  [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) + [FFmpeg](https://www.ffmpeg.org/) + [opencv-mobile](https://github.com/nihui/opencv-mobile). the core AI engine is driven by [ggml](https://github.com/ggml-org/ggml), I/we'd like to [make contributions](https://github.com/ggml-org/llama.cpp/pull/12326) to upstream project llama.cpp.
 
 ### Software arch
-
-![Image](https://github.com/user-attachments/assets/90b62f15-8439-4d7c-9e7a-ed05eaf8403a)
+![Image](https://github.com/user-attachments/assets/32227392-abdf-4760-be3d-a19d48d478ff)
 
 ### News
 - `[2025 May 02]` [release v1.6.8](https://github.com/kantv-ai/kantv/releases/tag/kantv-1.6.8)
