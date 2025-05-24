@@ -6,6 +6,7 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
 ![Image](https://github.com/user-attachments/assets/32227392-abdf-4760-be3d-a19d48d478ff)
 
 ### News
+- `[2025 May 24]` [release v1.6.10](https://github.com/kantv-ai/kantv/releases/tag/kantv-1.6.10)
 - `[2025 May 02]` [release v1.6.8](https://github.com/kantv-ai/kantv/releases/tag/kantv-1.6.8)
 - `[2025 Mar 11]` [submit ggml-hexagon PR to upstream llama.cpp](https://github.com/ggml-org/llama.cpp/pull/12326)
 - `[2025 Feb 12]` create kantv-ai in github and re-launch dev activity of project kantv and [ggml-qnn](https://github.com/zhouwg/ggml-hexagon/discussions/18)(rename to ggml-hexagon since 2025 March 19)
