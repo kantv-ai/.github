@@ -22,7 +22,7 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
 
 - Simple is the beautiful
 
-   I/we believe the philosophy of "<b>simple is the beautiful</b>" which <b>comes from the great Unix</b>.
+   I/we believe the philosophy of "<b>simple is beautiful</b>" which <b>comes from the great Unix</b>.
 
 - Make it run, then make it right, then make it fast
   - this is a practical approach in R&D activity
