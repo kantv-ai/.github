@@ -1,6 +1,6 @@
 KanTV-AI focus on <b>learning/studying/practising</b> device-AI solution in <b>real application</b> & <b>real scenario</b> on <b>ANY</b> mainstream <b>Android phone</b> equipped with <b>high-end</b> mobile SoC(such as Snapdragon 8Gen3, Snapdragon 8Elite or customized 8Gen3/8Elite......).
 
-The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggml-org/llama.cpp) + [whisper.cpp](https://github.com/ggml-org/whisper.cpp) +  [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) + [FFmpeg](https://www.ffmpeg.org/) + [opencv-mobile](https://github.com/nihui/opencv-mobile). the core AI engine is driven by [ggml](https://github.com/ggml-org/ggml), I/we'd like to [make contributions](https://github.com/ggml-org/llama.cpp/pull/12326) to upstream project llama.cpp.
+The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggml-org/llama.cpp) + [whisper.cpp](https://github.com/ggml-org/whisper.cpp) +  [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) + [FFmpeg](https://www.ffmpeg.org/) + [opencv-mobile](https://github.com/nihui/opencv-mobile). the core AI engine is driven by [ggml](https://github.com/ggml-org/ggml), we'd like to [make contributions](https://github.com/ggml-org/llama.cpp/pull/12326) to upstream project llama.cpp.
 
 ### Software arch
 ![Image](https://github.com/user-attachments/assets/32227392-abdf-4760-be3d-a19d48d478ff)
@@ -22,16 +22,17 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
 
 - Simple is the beautiful
 
-   I/we believe the philosophy of "<b>simple is beautiful</b>" which <b>comes from the great Unix</b>.
+   we believe the philosophy of "<b>simple is beautiful</b>" which <b>comes from the great Unix</b>.
 
 - Make it run, then make it right, then make it fast
+<!--
   - this is a practical approach in R&D activity
   - a [candicated PR(a specified llama.cpp backend for Qualcomm Hexagon NPU)](https://github.com/ggml-org/llama.cpp/pull/12326) could run and right at the moment on Qualcomm high-end mobile SoC based Android phone.
   - this approach also used in Project KanTV(all efforts in Project KanTV will be used in <b>real scenario</b> in real Android APK on Android phone equipped with Qualcomm's <b>state-of-the-art</b> 8Elite/<b>8Elite2/8Elite3</b>/8Elite4/... mobile SoC.
-    
+-->
 - Explore and have fun!
 
-  I/we believe the philosophy of <b>try crazy ideas, build wild demos, and push the edge of what’s possible</b>(which is one of the core spirits of ggml-way).
+  we believe the philosophy of <b>try crazy ideas, build wild demos, and push the edge of what’s possible</b>(which is one of the core spirits of ggml-way).
 
 ### Roadmap
 
