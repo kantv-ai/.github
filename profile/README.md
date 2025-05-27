@@ -31,9 +31,10 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
   - this approach also used in Project KanTV(all efforts in Project KanTV will be used in <b>real scenario</b> in real Android APK on Android phone equipped with Qualcomm's <b>state-of-the-art</b> 8Elite/<b>8Elite2/8Elite3</b>/8Elite4/... mobile SoC.
 -->
 - Explore and have fun!
-- We respect the rule-based (International) order and IPR and try to avoid double-standard.
-
+  
   we believe the philosophy of <b>try crazy ideas, build wild demos, and push the edge of what’s possible</b>(which is one of the core spirits of ggml-way).
+
+- We respect the rule-based (International) order and IPR and try to avoid double-standard.
 
 ### Roadmap
 
