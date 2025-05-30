@@ -34,9 +34,9 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
   
   we believe the philosophy of <b>try crazy ideas, build wild demos, and push the edge of what’s possible</b>(which is one of the core spirits of ggml-way).
 
-- the rule-based (International) order and IPR
+- the rule-based order
 
-  we respect the rule-based (International) order and IPR and try to avoid double-standard(say A do B).
+  we respect the rule-based (International) order and we respect the IPR.
 
 ### Roadmap
 
