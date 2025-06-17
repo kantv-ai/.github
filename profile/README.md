@@ -36,7 +36,7 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
 
 - the rule-based order
 
-  we respect the rule-based (International) order and we respect the IPR.
+  we respect the rule-based (International) order and we respect the IPR, we also respect the fact.
 
 ### Roadmap
 
