@@ -20,7 +20,7 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
 
 ### the KanTV way
 
-- Simple is the beautiful
+- Simple is beautiful
 
    we believe the philosophy of "<b>simple is beautiful</b>" which <b>comes from the great Unix</b>.
 
@@ -34,7 +34,7 @@ The Project KanTV is <b>mainly powered</b> by [llama.cpp](https://github.com/ggm
   
   we believe the philosophy of <b>try crazy ideas, build wild demos, and push the edge of what’s possible</b>(which is one of the core spirits of ggml-way).
 
-- the rule-based order
+- Universal values
 
   we respect the rule-based (International) order and we respect the IPR, we also respect the fact.
 
